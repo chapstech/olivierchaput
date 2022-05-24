@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olivierchaput
-- 👀 I’m interested in OSINT, GameDev, CyberSecurity, IT
-- 🌱 I’m currently learning Python, GO and OSINT
-- 💞️ I’m looking to collaborate on OSINT initiatives
+- 👀 I’m interested in GameDev, CyberSecurity, ML
+- 🌱 I’m currently learning Python, GO and ML
+- 💞️ I’m looking to collaborate on ML initiatives
 - 📫 Reach me on twitter @ChapsTech
 
 <!---
